@@ -1,77 +1,75 @@
-<h1 align="center">Hey there 👋, I'm Amaan Khan</h1>
+<h1 align="center">Hi 👋, I'm Amaan Khan</h1>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | ⚛️ React Enthusiast | 🧠 DSA Explorer</h3>
 
 <p align="center">
-  🚀 Web Developer | ⚛️ React Enthusiast | 🧠 DSA Explorer <br>
-  💻 Passionate about building modern web apps & solving real-world problems
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00F5FF&center=true&vCenter=true&width=435&lines=Crafting+clean+%26+modern+web+apps;React.js+is+my+superpower;Loving+DSA+challenges+daily;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💡 About Me
+## 🔥 About Me
 
-- 🔭 Currently working on an **E-Commerce Web App** using **React.js**
-- 💡 Sharpening my skills in **Data Structures & Algorithms** (Striver Sheet + LeetCode 150)
-- 🌱 Exploring **Full-Stack Development**, APIs & modern web technologies
-- 📌 Focused on writing clean, efficient, and scalable code
-
----
-
-### 🛠️ Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white)
+- 🔭 Currently building a powerful **React E-Commerce Website**
+- 🎯 Solving **LeetCode 150 + Striver DSA Sheet** consistently
+- 🧠 Passionate about performance, UX, and clean UI
+- 🌱 Exploring advanced React patterns & component design
 
 ---
 
-### 📂 Featured Projects
+## 💼 Featured Projects
 
-> 🛒 **E-Commerce Website**  
-> A modern shopping platform built using **React.js**, with product filters, cart, and checkout features.
-
-> 👔 **Business Website**  
-> A responsive and sleek multi-page business site built using **HTML, CSS, and JavaScript**, designed to showcase company services and engage clients.
-
-> 🧠 **AI Resume Analyzer**  
-> A tool that uses AI logic to analyze resumes and match them with job descriptions — perfect for job seekers and recruiters.
-
-> 📚 **Library Management System**  
-> A simple and efficient web app to manage book records, issue/return history, and user management.
+| 🚀 Project | 🔎 Description | ⚙️ Tech Stack |
+|--------|-------------|------|
+| 🛍️ [E-Commerce Website](https://github.com/Amaan-sde/E-Commerce-Site) | Feature-rich shopping app with filters, cart, responsive UI & clean component structure. | React, CSS |
+| 👔 [Business Website (React)](https://github.com/Amaan-sde/Business-Site) | 🚀 A stunning multi-page business site built using **React** and custom **CSS** — responsive, fast, and client-ready. Smooth transitions, reusable components, and minimalistic design. | React, CSS, JSX |
+| 🤖 [AI Resume Analyzer](https://github.com/Amaan-sde/Resume-Analyzer) | Smart AI-based app to analyze resumes & check job match % — ideal for recruiters & job seekers. | JS, AI Logic |
+| 📚 [Library Management System](https://github.com/Amaan-sde/Library-Manager) | A clean and simple book tracking system with search, issue, and return features. | HTML, CSS, JS |
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Amaan-sde&theme=radical&hide_border=false" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=radical" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode,figma" />
 </p>
 
 ---
 
-### 📬 Let's Connect!
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/amaan-sde)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Amaan-sde)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight&hide_border=false" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Amaan-sde&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight&hide_border=false" width="50%"/>
+</p>
 
 ---
 
-### ✍️ Quote I Live By
+## 📬 Let’s Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/amaan-sde" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/Amaan-sde" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🧠 Fun Fact
 
 > “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>Amaan Khan</strong>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=100&section=footer"/>
 </p>
