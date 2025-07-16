@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amaan Khan</h1>
-<h3 align="center">🚀 Aspiring Full-Stack Developer | ⚛️ React Lover | 🧠 DSA Addict</h3>
+<h3 align="center">🚀 Java Full-Stack Developer | ⚛️ React Lover | 🧠 DSA Addict | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=00F5FF&width=450&lines=Building+insane+React+Projects;Mastering+DSA+%F0%9F%94%A5;Always+learning%2C+always+growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=00F5FF&width=450&lines=Building+insane+Java+%2B+React+Apps;Mastering+DSA+%F0%9F%94%A5;AI-Powered+Solutions+in+Progress;Always+learning%2C+always+building" />
 </p>
 
 <p align="center">
@@ -13,23 +13,22 @@
 
 ## 👨‍💻 About Me – The Code Behind the Developer
 
-Hey there! I'm **Amaan Khan** — a passionate web developer on a mission to build **next-gen web apps** that don't just *work*, but *wow*. I live in the world of **React.js**, clean UI, and crisp CSS — blending design and logic to craft smooth, scalable, and high-performance web experiences.
+Hey there! I'm **Amaan Khan** — a passionate full-stack web developer skilled in building robust, scalable applications using **Java**, **React.js**, and everything in between. I’ve developed RESTful APIs, worked in Agile teams, integrated AI tools, and handled everything from **backend logic to beautiful frontend UIs**.
 
-💡 I believe that great UI isn't just what it looks like — it's how it **feels**. And great code? It’s elegant, modular, and ready to take on the world.
+💡 I love solving real-world problems and creating tools that are useful, fast, and beautiful.
 
 ---
 
 🚀 **Here’s what powers me:**
 
-- ⚛️ Building blazing-fast apps with **React.js**
-- 🧠 Tackling DSA daily to sharpen problem-solving like a ninja (Striver + LeetCode 150)
-- 🎯 Designing with purpose — from wireframes to pixel-perfect UI
-- 🔁 Writing reusable components and scalable architecture
-- 💬 Always open to **collaborate, learn, and create something amazing**
+- ⚙️ **Spring Boot + Java** for backend magic
+- ⚛️ **React.js + Tailwind + Bootstrap** for pixel-perfect frontend
+- 🧠 **DSA (C++) + LeetCode + Striver Sheet** for sharp logic
+- 🧪 API testing & integration with **Postman**
+- 🌐 Full MERN projects using **MongoDB, Express, React, Node.js**
+- 💬 Strong team player with UI/UX sensitivity
 
 💬 I don’t just write code, I write **experiences.**
-
-Let’s make the web a more beautiful, functional, and intelligent place — one component at a time.
 
 ---
 
@@ -44,35 +43,31 @@ Let’s make the web a more beautiful, functional, and intelligent place — one
     <td width="50%">
       <h3>🛍️ <a href="https://github.com/Amaan-sde/E-Commerce-Site">E-Commerce Website</a></h3>
       <ul>
-        <li>💥 Full-featured shopping platform</li>
-        <li>🛒 Product filters, cart, responsive design</li>
-        <li>⚛️ Built with React, CSS</li>
+        <li>🛒 Built with React, responsive UI, product filters, cart, checkout</li>
+        <li>💥 Hands-on with reusable components and routing</li>
       </ul>
     </td>
     <td width="50%">
       <h3>👔 <a href="https://github.com/Amaan-sde/Business-Site">Business Website (React)</a></h3>
       <ul>
-        <li>💼 Sleek multi-page site for businesses</li>
-        <li>🎨 Fully responsive, smooth transitions</li>
-        <li>⚛️ Built with React, custom CSS</li>
+        <li>🎨 React.js + Tailwind-based responsive site</li>
+        <li>📱 Fully mobile-friendly with smooth transitions</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>🤖 <a href="https://github.com/Amaan-sde/Resume-Analyzer">AI Resume Analyzer</a></h3>
+      <h3>🤖 <a href="https://github.com/Amaan-sde/https---github.com-Amaan-sde-AI-Resume-Analyzer">AI Resume Analyzer</a></h3>
       <ul>
-        <li>📄 Analyzes resumes with AI logic</li>
-        <li>🎯 Matches candidates to job descriptions</li>
-        <li>🛠 Built with vanilla JS & logic</li>
+        <li>🧠 Extracts key info from resumes using AI/NLP logic</li>
+        <li>🎯 Matches resume content with job descriptions</li>
       </ul>
     </td>
     <td width="50%">
-      <h3>📚 <a href="https://github.com/Amaan-sde/Library-Manager">Library Management System</a></h3>
+      <h3>📚 <a href="https://github.com/Amaan-sde/library-management-system">Library Management System</a></h3>
       <ul>
-        <li>🔍 Tracks books, user records, and history</li>
-        <li>📘 Simple UI & core functionality</li>
-        <li>🧱 HTML, CSS, JavaScript</li>
+        <li>💻 Java + MySQL + Tailwind/Bootstrap stack</li>
+        <li>🔐 User auth, book issuing, return workflows</li>
       </ul>
     </td>
   </tr>
@@ -83,11 +78,24 @@ Let’s make the web a more beautiful, functional, and intelligent place — one
 ## 🚀 Tech Stack I Love
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-My%20Weapons%20of%20Choice-black?style=for-the-badge&logo=terminal&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,html,css,tailwind,bootstrap,figma,git,github,vscode,mongodb" alt="tech-stack" />
+  <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-grey?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-FFD43B?style=for-the-badge&logo=python&logoColor=black" />
 </p>
 
 ---
@@ -111,7 +119,7 @@ Let’s make the web a more beautiful, functional, and intelligent place — one
   <a href="https://www.linkedin.com/in/amaan-khan-121b722a6/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:amaankhan172585@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/Amaan_Khan1/" target="_blank">
