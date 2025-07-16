@@ -10,6 +10,7 @@
 </p>
 
 ---
+
 ## 👨‍💻 About Me – The Code Behind the Developer
 
 Hey there! I'm **Amaan Khan** — a passionate web developer on a mission to build **next-gen web apps** that don't just *work*, but *wow*. I live in the world of **React.js**, clean UI, and crisp CSS — blending design and logic to craft smooth, scalable, and high-performance web experiences.
@@ -79,11 +80,34 @@ Let’s make the web a more beautiful, functional, and intelligent place — one
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack I Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,git,github,vscode,figma" />
+  <img src="https://img.shields.io/badge/-My%20Weapons%20of%20Choice-black?style=for-the-badge&logo=terminal&logoColor=white" />
 </p>
+
+<p align="center">
+  <a href="#"><img class="tech-icon" src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,html,css,tailwind,bootstrap,figma,git,github,vscode,mongodb" alt="tech-stack" /></a>
+</p>
+
+<style>
+  .tech-icon {
+    animation: glow 2s ease-in-out infinite alternate;
+    border-radius: 12px;
+    box-shadow: 0 0 10px #00f2ff, 0 0 20px #4facfe;
+  }
+
+  @keyframes glow {
+    0% {
+      box-shadow: 0 0 5px #00f2ff;
+      transform: scale(1);
+    }
+    100% {
+      box-shadow: 0 0 20px #4facfe;
+      transform: scale(1.05);
+    }
+  }
+</style>
 
 ---
 
