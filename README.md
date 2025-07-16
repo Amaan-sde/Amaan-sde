@@ -9,21 +9,20 @@
 
 ## 👨‍💻 About Me
 
-I'm **Amaan Khan** — a self-driven **MERN stack developer** passionate about building beautiful, functional, and blazing-fast web apps.
+I'm **Amaan Khan** — a passionate **Full-Stack Developer** focused on building scalable, creative, and purposeful digital solutions using the **MERN stack**. I'm a daily problem-solver on LeetCode, and I love turning complex ideas into smooth, modern interfaces.
 
-🔧 I love:
-- Building with **React.js**, **Node.js**, **MongoDB**, **Express**
-- Designing UI with **Tailwind CSS**, **Bootstrap**, and custom CSS
-- Solving DSA problems on **LeetCode** & mastering **Striver's Sheet**
-- Turning problems into scalable digital products
-
-> I don't just write code — I build **experiences**.
+💡 What I do:
+- Build blazing-fast full-stack apps with **React, Node, Express, MongoDB**
+- Style with **Tailwind CSS**, **Bootstrap**, and custom CSS
+- Practice **Data Structures & Algorithms (DSA)** daily
+- Build AI-powered tools for productivity and resumes
+- Craft responsive, clean UI with a developer's logic
 
 ---
 
-## 🚀 Projects That Speak
+## 🧩 Featured Projects
 
-| 🔥 Project | 🛠 Stack | 🌟 Features |
+| 💼 Project | 🛠 Stack | 🌟 Features |
 |-----------|----------|-------------|
 | 🛒 **[E-Commerce Site](https://github.com/Amaan-sde/E-Commerce-Site)** | React, CSS | Product listings, cart, filter system |
 | 👔 **[Business Website](https://github.com/Amaan-sde/Business-Site)** | React, Tailwind CSS | Multi-page, animated, responsive |
@@ -35,12 +34,27 @@ I'm **Amaan Khan** — a self-driven **MERN stack developer** passionate about b
 ## 🧠 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,tailwind,bootstrap,git,github,vscode,figma" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight" />
