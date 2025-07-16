@@ -7,12 +7,25 @@
 
 ---
 
-## 💡 About Me
+## 👨‍💻 About Me – The Code Behind the Developer
 
-- 🔭 Currently building a complete **E-Commerce Web App** using **React.js**
-- 💻 Solving DSA questions daily (Striver Sheet + LeetCode 150)
-- 🎯 Love building smooth UI, scalable components & clean UX
-- 🌱 Exploring advanced topics in React & performance optimization
+Hey there! I'm **Amaan Khan** — a passionate web developer on a mission to build **next-gen web apps** that don't just *work*, but *wow*. I live in the world of **React.js**, clean UI, and crisp CSS — blending design and logic to craft smooth, scalable, and high-performance web experiences.
+
+💡 I believe that great UI isn't just what it looks like — it's how it **feels**. And great code? It’s elegant, modular, and ready to take on the world.
+
+---
+
+🚀 **Here’s what powers me:**
+
+- ⚛️ Building blazing-fast apps with **React.js**
+- 🧠 Tackling DSA daily to sharpen problem-solving like a ninja (Striver + LeetCode 150)
+- 🎯 Designing with purpose — from wireframes to pixel-perfect UI
+- 🔁 Writing reusable components and scalable architecture
+- 💬 Always open to **collaborate, learn, and create something amazing**
+
+💬 I don’t just write code, I write **experiences.**
+
+Let’s make the web a more beautiful, functional, and intelligent place — one component at a time.
 
 ---
 
@@ -71,7 +84,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight" />
@@ -100,7 +113,7 @@
 
 ---
 
-## ✍️ Quote I Live By
+## 🧠 Quote I Live By
 
 > **“First, solve the problem. Then, write the code.” – John Johnson**
 
