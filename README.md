@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&color=00F5FF&width=450&lines=Building+insane+React+Projects;Mastering+DSA+%F0%9F%94%A5;Always+learning%2C+always+growing" />
 </p>
 
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px" alt="coding-student" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me – The Code Behind the Developer
