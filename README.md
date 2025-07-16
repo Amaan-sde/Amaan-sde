@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300px" alt="coding-student" />
+  <img src="./A_digital_illustration_in_a_semi-realistic_style_w.png" width="600px" alt="Amaan coding" />
 </p>
 
 ---
