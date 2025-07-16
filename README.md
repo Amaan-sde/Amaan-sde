@@ -87,27 +87,8 @@ Let’s make the web a more beautiful, functional, and intelligent place — one
 </p>
 
 <p align="center">
-  <a href="#"><img class="tech-icon" src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,html,css,tailwind,bootstrap,figma,git,github,vscode,mongodb" alt="tech-stack" /></a>
+  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,nodejs,express,html,css,tailwind,bootstrap,figma,git,github,vscode,mongodb" alt="tech-stack" />
 </p>
-
-<style>
-  .tech-icon {
-    animation: glow 2s ease-in-out infinite alternate;
-    border-radius: 12px;
-    box-shadow: 0 0 10px #00f2ff, 0 0 20px #4facfe;
-  }
-
-  @keyframes glow {
-    0% {
-      box-shadow: 0 0 5px #00f2ff;
-      transform: scale(1);
-    }
-    100% {
-      box-shadow: 0 0 20px #4facfe;
-      transform: scale(1.05);
-    }
-  }
-</style>
 
 ---
 
