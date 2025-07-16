@@ -6,11 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://sdmntpreastus.oaiusercontent.com/files/00000000-2bf0-61f9-9252-ce3c7d20479a/raw?se=2025-07-16T08%3A09%3A19Z&sp=r&sv=2024-08-04&sr=b&scid=3b00e627-94f8-5c1a-9eb0-be2f27f43359&skoid=b0fd38cc-3d33-418f-920e-4798de4acdd1&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-15T12%3A07%3A31Z&ske=2025-07-16T12%3A07%3A31Z&sks=b&skv=2024-08-04&sig=WHn9NCQVpwBoSj29dQezfjbgqI7ACCYjZwc2LS8xEC0%3D" width="700px" alt="Amaan Coding Visual" />
+  <img src="./amaan-coding-pulse.gif" width="600px" alt="Amaan coding animated" />
 </p>
 
 ---
-
 ## 👨‍💻 About Me – The Code Behind the Developer
 
 Hey there! I'm **Amaan Khan** — a passionate web developer on a mission to build **next-gen web apps** that don't just *work*, but *wow*. I live in the world of **React.js**, clean UI, and crisp CSS — blending design and logic to craft smooth, scalable, and high-performance web experiences.
