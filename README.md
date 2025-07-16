@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Amaan Khan</h1>
-<h3 align="center">🚀 Full-Stack Developer | ⚛️ React Developer | 🧠 DSA Learner | 🌍 Lifelong Learner</h3>
+<h3 align="center">🚀 Full-Stack Developer | ⚛️ React Developer | 🧠 DSA Enthusiast | 🌍 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Apps;Learning+Every+Day;Code.+Build.+Repeat." />
@@ -11,13 +11,13 @@
 
 I'm **Amaan Khan**, a dedicated and curious **Full-Stack Web Developer** who’s passionate about turning ideas into clean, functional, and impactful web applications.
 
-I’m currently working on:
-- 🧠 Strengthening my DSA & system design skills (Striver + LeetCode)
-- ⚛️ Building MERN stack apps with reusable, scalable architecture
-- 🎨 Designing with simplicity, responsiveness, and modern UI in mind
-- 🌱 Constantly learning new tools, concepts, and workflows
+Currently working on:
+- 🧠 Sharpening DSA skills with Striver Sheet & LeetCode
+- ⚛️ Building full-stack React & Node.js apps
+- 🎨 Designing sleek UI with Tailwind and CSS
+- 🌱 Always learning new tools and building smarter
 
-> 🧩 I love writing code that solves problems and designing experiences that feel right.
+> 💬 I don’t just code — I build experiences that solve real problems.
 
 ---
 
@@ -41,7 +41,15 @@ I’m currently working on:
   <img src="https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🧰 Tools & Platforms
+### 🧠 Languages
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🔧 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -50,16 +58,9 @@ I’m currently working on:
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-### 🧠 Languages & Logic
-<p>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
 ---
 
-## 🚀 Projects
+## 🧩 Featured Projects
 
 | 💼 Project | 🛠 Stack | 🌟 Features |
 |-----------|----------|-------------|
@@ -83,7 +84,7 @@ I’m currently working on:
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amaan-khan-121b722a6/">
@@ -99,12 +100,15 @@ I’m currently working on:
 
 ---
 
-## 💬 Quote I Live By
+## 🕷️ Quote I Live By
 
-> "Great things are not done by impulse, but by a series of small things brought together." — Vincent Van Gogh
+<p align="center">
+  <strong><em>"With great power comes great responsibility."</em></strong><br/>
+  <sub>— Uncle Ben, Spider-Man</sub>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,000000&height=100&section=footer"/>
 </p>
