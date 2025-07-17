@@ -75,13 +75,9 @@ Currently working on:
 
 
 <p align="center">
-  <!-- GitHub stats card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight" width="400" alt="GitHub Stats" />
-
-  <!-- Top languages card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="420" height="200" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight&hide_border=true" width="420" height="200" alt="Top Languages" />
 </p>
----
 
 ## 🌐 Let's Connect
 
