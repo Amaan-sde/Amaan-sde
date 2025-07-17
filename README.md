@@ -76,10 +76,10 @@ Currently working on:
 
 <p align="center">
   <!-- GitHub stats card -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight" width="400" alt="GitHub Stats" />
 
   <!-- Top languages card -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight" width="400" alt="Top Languages" />
 </p>
 ---
 
