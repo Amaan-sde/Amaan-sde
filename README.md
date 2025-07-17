@@ -72,16 +72,16 @@ Currently working on:
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight.png" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amaan-sde&theme=tokyonight.png" alt="GitHub Streak Stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <!-- Fallback for Streak Stats -->
+  <img width="45%" src="https://img.shields.io/badge/GitHub%20Streak-Unavailable-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak Stats (Unavailable)" />
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight.png" alt="Top Languages" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
----
 
 ## 🌐 Let's Connect
 
