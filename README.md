@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Amaan Khan**, a dedicated and curious **Full-Stack Web Developer** who’s passionate about turning ideas into clean, functional, and impactful web applications.
+I'm **Amaan Khan**, a dedicated and curious **Full-Stack Web Developer** who's passionate about turning ideas into clean, functional, and impactful web applications.
 
 Currently working on:
 - 🧠 Sharpening DSA skills with Striver Sheet & LeetCode
@@ -17,7 +17,7 @@ Currently working on:
 - 🎨 Designing sleek UI with Tailwind and CSS
 - 🌱 Always learning new tools and building smarter
 
-> 💬 I don’t just code — I build experiences that solve real problems.
+> 💬 I don't just code — I build experiences that solve real problems.
 
 ---
 
@@ -72,17 +72,17 @@ Currently working on:
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
   <img width="45%" src="https://github-readme-streak-stats.demolab.com?user=Amaan-sde&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+---
 
 ## 🌐 Let's Connect
 
