@@ -75,14 +75,12 @@ Currently working on:
 
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amaan-sde&theme=tokyonight" alt="GitHub Streak" />
-</p>
+  <!-- GitHub stats card -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+  <!-- Top languages card -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
 ---
 
 ## 🌐 Let's Connect
