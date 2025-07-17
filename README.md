@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | ⚛️ React Developer | 🧠 DSA Enthusiast | 🌍 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Apps;Learning+Every+Day;Code.+Build.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Crafting+Modern+Web+Apps;Learning+Every+Day;Code.+Build.+Repeat." alt="Typing animation" />
 </p>
 
 ---
@@ -74,12 +74,12 @@ Currently working on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com?user=Amaan-sde&theme=tokyonight" alt="GitHub Streak"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.demolab.com?user=Amaan-sde&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -105,10 +105,4 @@ Currently working on:
 <p align="center">
   <strong><em>"With great power comes great responsibility."</em></strong><br/>
   <sub>— Uncle Ben, Spider-Man</sub>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000,000000&height=100&section=footer"/>
 </p>
