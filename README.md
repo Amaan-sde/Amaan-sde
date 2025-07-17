@@ -73,17 +73,10 @@ Currently working on:
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <table>
-    <tr>
-      <td style="padding-right: 20px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" height="200" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight&hide_border=true" width="400" height="200" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" height="200" style="margin-right: 25px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight&hide_border=true" width="400" height="200" />
 </p>
 
 ## 🌐 Let's Connect
