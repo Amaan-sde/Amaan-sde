@@ -75,8 +75,7 @@ Currently working on:
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
-  <!-- Fallback for Streak Stats -->
-  <img width="45%" src="https://img.shields.io/badge/GitHub%20Streak-Unavailable-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Streak Stats (Unavailable)" />
+  <img width="45%" src="https://raw.githubusercontent.com/Amaan-sde/Amaan-sde/main/assets/github-streak.png" alt="GitHub Streak" />
 </p>
 
 <p align="center">
