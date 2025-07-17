@@ -74,12 +74,14 @@ Currently working on:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.demolab.com?user=Amaan-sde&theme=tokyonight" alt="GitHub Streak" />
+  <!-- Replace YOUR_STATS_DOMAIN with your Vercel deployed stats URL -->
+  <img src="https://YOUR_STATS_DOMAIN/api?username=Amaan-sde&show_icons=true&theme=tokyonight" width="45%" alt="GitHub Stats" />
+  <!-- Replace YOUR_STREAK_DOMAIN with your Vercel deployed streak URL -->
+  <img src="https://YOUR_STREAK_DOMAIN?user=Amaan-sde&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://YOUR_STATS_DOMAIN/api/top-langs/?username=Amaan-sde&layout=compact&theme=tokyonight" width="50%" alt="Top Languages" />
 </p>
 
 ---
