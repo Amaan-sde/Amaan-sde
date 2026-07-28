@@ -1,135 +1,94 @@
-<!-- ###################################################################### -->
-<!-- #                  AMAAN KHAN - GITHUB PROFILE README                # -->
-<!-- ###################################################################### -->
+<!-- ########## HEADER / ASCII BANNER ########## -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00FFAB&center=true&vCenter=true&width=600&height=100&lines=AMAAN+KHAN;Full-Stack+Architect;DevOps+Automator;DSA+Gladiator;Cloud+Native+Dev" alt="Typing SVG" />
+</p>
 
-<div align="center">
-
-  <!-- DYNAMIC TYPING HEADER -->
-  <a href="https://github.com/amaan-khan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&height=90&lines=⚡+AMAAN+KHAN;🌐+Full-Stack+Architect;🚀+DevOps+%26+Cloud+Native+Engineer;🧠+DSA+Gladiator+(1000%2B+Solved);🌌+NASA+Space+Apps+Challenger" alt="Amaan Khan Dynamic Header" />
-  </a>
-
-  <br/>
-
-  <!-- METRIC BADGES -->
-  <p align="center">
-    <a href="https://github.com/amaan-khan">
-      <img src="https://komarev.com/ghpvc/?username=amaan-khan&label=CYBER+VISITS&color=00f5ff&style=for-the-badge" alt="Profile Views" />
-    </a>
-    <a href="https://github.com/amaan-khan?tab=followers">
-      <img src="https://img.shields.io/github/followers/amaan-khan?style=for-the-badge&logo=github&logoColor=fff&color=7928ca&label=NETWORK" alt="Followers" />
-    </a>
-    <a href="https://github.com/amaan-khan?tab=repositories">
-      <img src="https://img.shields.io/github/stars/amaan-khan?style=for-the-badge&logo=apachespark&logoColor=fff&color=ff007f&label=STARS" alt="Stars" />
-    </a>
-    <a href="https://leetcode.com/Amaan_Khan1">
-      <img src="https://img.shields.io/badge/LEETCODE-1000%2B_SOLVED-ffa116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-    </a>
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amaan-sde&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Amaan-sde?style=for-the-badge&logo=github&color=181717&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Amaan-sde?style=for-the-badge&logo=github&color=yellow&label=STARS" alt="Stars" />
+</p>
 
 ---
 
-<!-- ########## TERMINAL BIO SECTION ########## -->
-<div align="center">
-  <h2>💻 <samp>system.exec("whoami")</samp></h2>
-</div>
-
-```bash
- ┌──(amaan㉿cloud-native-node)-[~/profile]
- └─$ cat bio.json
- {
-   "name": "Amaan Khan",
-   "role": "Software Engineer @ Wotpan",
-   "passions": ["Full-Stack Architecture", "Cloud-Native Infrastructure", "High-Performance Systems"],
-   "certifications": ["AWS Cloud Practitioner Certified", "NASA Space Apps Challenger"],
-   "dsa_record": "1000+ Algorithmic Problems Mastered Across LeetCode & CodeChef",
-   "philosophy": "Transforming complex engineering friction into seamless, high-throughput solutions.",
-   "status": "Ready to build, automate, and scale the future 🚀"
- }
-```
-
----
-
-<!-- ########## ABOUT ME + HERO GIF ########## -->
-<table align="center" width="100%">
+<!-- ########## ABOUT ME + FUN FACT ########## -->
+<table align="center">
   <tr>
-    <td width="60%" valign="top">
-      <h3>🚀 Engineering Overview</h3>
+    <td>
+      <h2>👋 Hi, I'm Amaan!</h2>
       <p>
-        Hey there! I'm <b>Amaan Khan</b>, a passionate <b>Full-Stack Architect & DevOps Automator</b>. 
-        I bridge the gap between high-level user experiences and resilient cloud infrastructure.
-      </p>
-      <ul>
-        <li>⚡ <b>Core Focus:</b> Building modular, high-speed microservices with <b>NestJS, Node.js, and React</b>.</li>
-        <li>🐳 <b>DevOps Specialist:</b> Automating deployment pipelines with <b>Docker, Kubernetes, AWS, Nginx & PM2</b>.</li>
-        <li>📱 <b>Cross-Platform Master:</b> Crafting sleek mobile UI/UX with <b>Flutter</b>.</li>
-        <li>🧠 <b>Problem Solver:</b> Deep algorithmic expertise with <b>1000+ solved DSA problems</b>.</li>
-      </ul>
-      <p align="left">
-        <a href="mailto:amaankhan172595@gmail.com">
-          <img src="https://img.shields.io/badge/Direct_Message-Email_Me-00F5FF?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        <a href="https://linkedin.com/in/amaan-khan">
-          <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
+        🚀 <b>Software Engineer</b> specializing in <b>Full-Stack</b> & <b>Cloud-Native</b> deployments[cite: 1].<br>
+        🎯 I turn complex problems into elegant, scalable solutions.<br>
+        ☁️ <b>DevOps Warrior</b> – Docker, K8s, AWS – I automate everything[cite: 1].<br>
+        🧠 <b>DSA Obsessed</b> – Strong foundation in Data Structures & Algorithms[cite: 1].<br>
+        🏆 <b>NASA Space Apps</b> Challenger Participant & <b>AWS Cloud Practitioner</b> Certified[cite: 1].
       </p>
     </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px; border: 2px solid #00F5FF;" alt="Coding Animation" />
+    <td align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- ########## THE ARSENAL / TECH STACK ########## -->
-<div align="center">
-  <h2>⚡ Technical Arsenal</h2>
-  <p><i>The battle-tested technologies powering my production applications</i></p>
-</div>
+<!-- ########## GITHUB METRICS / STATS ########## -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
-<table align="center" width="100%">
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Amaan-sde&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amaan-sde&theme=radical&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amaan-sde&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=Amaan-sde&theme=radical&no-frame=true&row=2&column=4" />
+</p>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amaan-sde&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+
+---
+
+<!-- ########## TECH STACK (INSANE VERSION) ########## -->
+<h2 align="center">⚡ The Arsenal</h2>
+
+<table align="center" border="0">
   <tr>
-    <th width="33%">💻 Core Languages</th>
-    <th width="33%">🚀 Frameworks & Web</th>
-    <th width="33%">☁️ Cloud, DevOps & DB</th>
+    <th>💻 Languages</th>
+    <th>🚀 Frameworks</th>
+    <th>☁️ DevOps & DB</th>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     </td>
-    <td align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /><br/><br/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /><br/><br/>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     </td>
-    <td align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /><br/><br/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /><br/><br/>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
     </td>
   </tr>
 </table>
 
 <details>
-  <summary><b>🛠️ Developer Toolkit & Ecosystem (Click to Expand)</b></summary>
-  <br/>
+  <summary><b>🛠️ More Tools I Master</b></summary>
   <p align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -137,61 +96,56 @@
     <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   </p>
 </details>
 
 ---
 
-<!-- ########## EXPERIENCE / CAREER TIMELINE ########## -->
-<div align="center">
-  <h2>💼 Professional Timeline</h2>
-</div>
+<!-- ########## PROFESSIONAL EXPERIENCE (TIMELINE) ########## -->
+<h2 align="center">💼 Experience</h2>
 
-```
- ┌── [ Nov 2025 – Present ] 🚀 Software Engineer @ Wotpan (Kashipur, UK)
- │
- ├── 📱 Cross-Platform Architecture: Standardized modular Flutter components across iOS & Android apps.
- ├── ⚙️ Scalable Backend Services: Architected modular NestJS RESTful APIs with JWT authentication.
- ├── 🐳 Containerization & Infra: Managed Dockerized deployments, Nginx reverse proxying, & PM2 process control.
- ├── 🛡️ SSL & Security Hardening: Enforced SSL encryption, CORS policies, and zero-downtime CI/CD deployment pipelines.
- └── 🤝 Engineering Leadership: Synchronized cross-functional frontend, backend, and Cloud teams.
-```
+<h3>💻 Software Engineer @ <b>Wotpan</b></h3>
+<p><i>Nov 2025 – Present | Kashipur, UK</i>[cite: 1]</p>
+
+<blockquote>
+  <b>🚀 Cross-Platform (Flutter):</b> Developed cross-platform mobile apps, building reusable UI components & integrating REST APIs[cite: 1].<br/>
+  <b>⚙️ Scalable Backend (NestJS):</b> Built modular REST APIs with JWT auth, request validation, and production architecture[cite: 1].<br/>
+  <b>🐳 DevOps & Deployment:</b> Containerized apps (Docker), configured Nginx reverse proxy, managed PM2, and secured SSL environments[cite: 1].<br/>
+  <b>🔄 CI/CD Pipeline:</b> Automated builds & deployments – reducing manual friction and ensuring consistent releases[cite: 1].<br/>
+  <b>🤝 Cross-Functional:</b> Collaborated across frontend, backend, and deployment teams to deliver end-to-end solutions[cite: 1].
+</blockquote>
 
 ---
 
-<!-- ########## FEATURED PROJECTS SHOWCASE ########## -->
-<div align="center">
-  <h2>🏗️ Featured Engineering Projects</h2>
-</div>
+<!-- ########## FEATURED PROJECTS (SHOWCASE) ########## -->
+<h2 align="center">🏗️ Featured Projects</h2>
 
-<table width="100%">
+<table border="0" align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%">
       <h3 align="center">🤖 AI Conversational Assistant</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
       </p>
       <ul>
-        <li>🔐 <b>Bank-Grade Security:</b> JWT auth stored in HttpOnly cookies + AES payload encryption.</li>
-        <li>☁️ <b>Media Pipeline:</b> Cloudinary integration for sub-second image & audio asset storage.</li>
-        <li>⚡ <b>Optimized Throughput:</b> REST API architecture with custom middleware & error handlers.</li>
+        <li>🔐 <b>Security First:</b> JWT + HTTP-only cookies + bcrypt encryption[cite: 1].</li>
+        <li>☁️ <b>Cloudinary Integration:</b> Seamless media management architecture[cite: 1].</li>
+        <li>⚡ <b>Performance:</b> Optimized REST APIs with Axios + modular React components[cite: 1].</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 LaunchPad SaaS Platform</h3>
+    <td width="50%">
+      <h3 align="center">🚀 LaunchPad</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
       </p>
       <ul>
-        <li>📱 <b>Fluid Responsiveness:</b> Utility-first styling adapted for ultra-fast rendering on modern devices.</li>
-        <li>⚡ <b>Performance Optimized:</b> Code-splitting, dynamic lazy loading, and asset bundle minification.</li>
-        <li>🌍 <b>Global Edge Deployment:</b> Instant global CDN delivery powered by Vercel's edge network.</li>
+        <li>📱 <b>Mobile-First:</b> Pixel-perfect interface with reusable component-based UI[cite: 1].</li>
+        <li>⚡ <b>Optimized:</b> Lazy loading + responsive layouts for high performance[cite: 1].</li>
+        <li>🌍 <b>Global Delivery:</b> Deployed on Vercel with automated builds and hosting[cite: 1].</li>
       </ul>
     </td>
   </tr>
@@ -199,87 +153,83 @@
 
 ---
 
-<!-- ########## GITHUB ANALYTICS DASHBOARD ########## -->
-<div align="center">
-  <h2>📊 GitHub Cyber Analytics</h2>
-</div>
+<!-- ########## LEETCODE / CODING PROFILES ########## -->
+<h2 align="center">🏅 Competitive Coding</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amaan-khan&show_icons=true&theme=synthwave&hide_border=true&count_private=true" alt="Amaan's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amaan-khan&theme=synthwave&hide_border=true" alt="Amaan's Streak Stats" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-khan&layout=compact&theme=synthwave&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=amaan-khan&theme=synthwave&no-frame=true&row=1&column=4" alt="Trophies" />
-</p>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=amaan-khan&theme=react-dark&bg_color=0d1117&hide_border=true" alt="Activity Graph" />
-</div>
-
----
-
-<!-- ########## COMPETITIVE PROGRAMMING / LEETCODE ########## -->
-<div align="center">
-  <h2>🏅 Competitive Coding & DSA Arena</h2>
-</div>
-
-<div align="center">
-  <a href="https://leetcode.com/Amaan_Khan1">
-    <img src="https://leetcard.jacoblin.cool/Amaan_Khan1?theme=dark&font=fira-code&ext=heatmap" width="70%" alt="LeetCode Card" />
+  <a href="https://leetcode.com/u/Amaan_Khan1">
+    <img src="https://leetcard.jacoblin.cool/Amaan_Khan1?theme=dark&font=baloo&ext=heatmap" width="60%" />
   </a>
-</div>
-
-<br/>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-1000%2B_Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/CodeChef-Active_Gladiator-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/HackerRank-5_Stars_Gold-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/LeetCode-Profile_Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/B.Tech_CSE-Birla_Institute-00599C?style=for-the-badge&logo=education&logoColor=white" />
+  <img src="https://img.shields.io/badge/CGPA-7.3%2F10-2EC866?style=for-the-badge&logo=academia&logoColor=white" />
 </p>
 
 ---
 
-<!-- ########## ANIMATED CONTRIBUTIONS SNAKE ########## -->
-<div align="center">
-  <h2>🐍 Contribution Matrix</h2>
-  <img src="https://raw.githubusercontent.com/amaan-khan/amaan-khan/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Contribution Animation" />
-</div>
+<!-- ########## WAKATIME / CODING ACTIVITY ########## -->
+<h2 align="center">📈 Coding Activity</h2>
+
+<p align="center">
+  <i>🚧 <b>Pro Tip:</b> Enable the WakaTime GitHub Action to show your real-time coding stats here!</i>
+</p>
+
+<!-- Replace the URL below with your actual WakaTime embed if enabled -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Amaan-sde&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-<!-- ########## DEV QUOTE & CONNECT MATRIX ########## -->
-<div align="center">
-  <h2>🧠 Dev Quote & Transmission</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Dev Quote" />
-</div>
+<!-- ########## RANDOM DEV QUOTE ########## -->
+<h2 align="center">🧠 Dev Quote of the Day</h2>
 
-<br/>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
-<div align="center">
-  <h3>📫 Connect With Me</h3>
-  <p>
-    <a href="https://linkedin.com/in/amaan-khan">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:amaankhan172595@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/Amaan_Khan1">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-    </a>
-    <a href="https://github.com/amaan-khan">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-</div>
+---
 
-<br/>
+<!-- ########## SNAKE CONTRIBUTION GRID (ANIMATED) ########## -->
+<h2 align="center">🐍 Contribution Snake</h2>
 
-<!-- FOOTER WAVING RENDER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F5FF&height=120&section=footer" width="100%" />
-  <p><b>Crafted with ❤️ & ☕ by <a href="https://github.com/amaan-khan">Amaan Khan</a></b></p>
-  <p><i>"Code is poetry in motion."</i></p>
-</div>
+<p align="center">
+  <img src="https://github.com/Amaan-sde/Amaan-sde/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <br/>
+  <i>🔥 <b>Pro Tip:</b> Set up the GitHub Action <code>Platane/snk</code> to auto-generate this animated snake based on your contributions!</i>
+</p>
+
+---
+
+<!-- ########## CONNECT WITH ME ########## -->
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/Amaan_Khan1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amaankhan172595@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/Amaan_Khan1">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/Amaan-sde">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ########## FOOTER ########## -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <b>⭐️ From <a href="https://github.com/Amaan-sde">Amaan Khan</a> with ❤️ & ☕</b><br/>
+  <i>"Code is poetry in motion."</i>
+</p>
