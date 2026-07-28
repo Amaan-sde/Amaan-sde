@@ -1,127 +1,268 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:001B44&height=180&section=header&text=Amaan%20Khan&fontSize=70&fontColor=ffffff&animation=fadeIn"/>
+<!-- ================================================= -->
+<!-- FUTURISTIC HEADER -->
+<!-- ================================================= -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2200&pause=700&color=00F5FF&center=true&width=850&lines=Software+Engineer;Building+Wotpan+%7C+Full+Stack+Systems;Flutter+%2B+NestJS+%2B+Cloud;Engineering+Scalable+Products"/>
+
+<svg width="100%" height="420" viewBox="0 0 1200 420" fill="none"
+xmlns="http://www.w3.org/2000/svg">
+
+
+<defs>
+
+<!-- Neon glow -->
+<filter id="glow">
+<feGaussianBlur stdDeviation="6" result="blur"/>
+<feMerge>
+<feMergeNode in="blur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+
+<!-- Road gradient -->
+<linearGradient id="road" x1="0" x2="1">
+<stop stop-color="#00111F"/>
+<stop offset="0.5" stop-color="#003B55"/>
+<stop offset="1" stop-color="#000"/>
+</linearGradient>
+
+
+<!-- Car body -->
+<linearGradient id="carPaint">
+<stop stop-color="#00F5FF"/>
+<stop offset="0.5" stop-color="#0066FF"/>
+<stop offset="1" stop-color="#111"/>
+</linearGradient>
+
+
+</defs>
+
+
+
+<!-- Background -->
+
+<rect width="1200" height="420" fill="#020617"/>
+
+
+<!-- Digital grid -->
+
+<g opacity="0.25">
+
+<path d="M0 330 H1200" stroke="#00F5FF"/>
+<path d="M0 270 H1200" stroke="#00F5FF"/>
+<path d="M0 210 H1200" stroke="#00F5FF"/>
+
+<path d="M150 0 V420" stroke="#00F5FF"/>
+<path d="M300 0 V420" stroke="#00F5FF"/>
+<path d="M450 0 V420" stroke="#00F5FF"/>
+<path d="M600 0 V420" stroke="#00F5FF"/>
+<path d="M750 0 V420" stroke="#00F5FF"/>
+<path d="M900 0 V420" stroke="#00F5FF"/>
+
+</g>
+
+
+
+<!-- Road -->
+
+<path d="
+M0 360
+Q600 250 1200 360
+L1200 420
+H0Z"
+fill="url(#road)"/>
+
+
+
+<!-- Speed lines -->
+
+<g stroke="#00F5FF" opacity="0.8">
+
+<path d="M0 310 H300">
+<animate attributeName="x1"
+values="-300;1200"
+dur="1.5s"
+repeatCount="indefinite"/>
+</path>
+
+
+<path d="M200 330 H600">
+<animate attributeName="x1"
+values="-600;1200"
+dur="2s"
+repeatCount="indefinite"/>
+</path>
+
+
+</g>
+
+
+
+<!-- ========================= -->
+<!-- BMW M5 INSPIRED CAR -->
+<!-- ========================= -->
+
+
+<g filter="url(#glow)">
+
+<g>
+
+<animateTransform
+attributeName="transform"
+type="translate"
+values="-350 0;1300 0"
+dur="7s"
+repeatCount="indefinite"/>
+
+
+<!-- shadow -->
+
+<ellipse cx="400" cy="350"
+rx="170"
+ry="20"
+fill="#00F5FF"
+opacity="0.3"/>
+
+
+<!-- car body -->
+
+<path d="
+M220 320
+L260 270
+L390 245
+L520 280
+L600 320
+Z"
+fill="url(#carPaint)"
+stroke="#00F5FF"
+stroke-width="3"/>
+
+
+
+<!-- roof -->
+
+<path d="
+M330 270
+L370 220
+L480 230
+L520 280
+"
+fill="#0B1220"
+stroke="#00F5FF"
+stroke-width="3"/>
+
+
+
+<!-- windows -->
+
+<path d="
+M370 240
+L410 230
+L470 235
+L490 270
+L360 270Z"
+fill="#001827"/>
+
+
+
+<!-- wheels -->
+
+<circle cx="330" cy="320" r="35"
+fill="#050505"
+stroke="#00F5FF"
+stroke-width="5"/>
+
+<circle cx="520" cy="320" r="35"
+fill="#050505"
+stroke="#00F5FF"
+stroke-width="5"/>
+
+
+<!-- headlights -->
+
+<path d="M580 295 L620 310 L580 320"
+fill="#00FFFF"/>
+
+
+<!-- neon exhaust -->
+
+<path d="M220 315 L120 300"
+stroke="#00F5FF"
+stroke-width="12">
+
+<animate
+attributeName="opacity"
+values="0;1;0"
+dur="0.5s"
+repeatCount="indefinite"/>
+
+</path>
+
+
+</g>
+
+</g>
+
+
+
+
+<!-- Title -->
+
+
+<text x="600"
+y="90"
+fill="white"
+font-size="55"
+font-family="monospace"
+font-weight="700"
+text-anchor="middle">
+
+AMAAN KHAN
+
+</text>
+
+
+<text x="600"
+y="140"
+fill="#00F5FF"
+font-size="25"
+font-family="monospace"
+text-anchor="middle">
+
+SOFTWARE ENGINEER // SYSTEM ARCHITECT
+
+</text>
+
+
+<text x="600"
+y="180"
+fill="#94A3B8"
+font-size="18"
+font-family="monospace"
+text-anchor="middle">
+
+BUILDING WOTPAN • FULL STACK • CLOUD • REALTIME SYSTEMS
+
+</text>
+
+
+</svg>
+
+
 
 <br/>
 
-<a href="https://linkedin.com/in/amaan-khan">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-00F5FF?style=flat-square&logo=linkedin"/>
-</a>
 
-<a href="mailto:amaankhan172595@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-white?style=flat-square&logo=gmail"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=25&duration=2000&pause=600&color=00F5FF&center=true&width=900&lines=Initializing+Developer+System...;Loading+Cloud+Architecture...;Launching+Wotpan+Engine...;Welcome+to+Amaan's+Digital+Garage"/>
 
-<a href="https://github.com/amaan-khan">
-<img src="https://img.shields.io/github/followers/amaan-khan?style=flat-square&logo=github"/>
-</a>
 
 </div>
 
 
-<table>
-<tr>
 
-<td width="60%" valign="top">
-
-# ⚡ Amaan Khan
-
-### Software Engineer | Full Stack Architect
-
-I design and build **production-grade applications** combining:
-
-- 📱 Flutter mobile engineering
-- ⚙️ NestJS backend systems
-- ☁️ Cloud infrastructure
-- 🔥 Real-time architectures
-
-
-Currently building:
-
-> **Wotpan** — A modern communication platform.
-
-</td>
-
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-
-</td>
-
-</tr>
-</table>
-
-
----
-
-# 🧬 Engineering Stack
-
-
-<table width="100%">
-
-<tr>
-
-<td align="center">
-
-### 📱 Frontend
-
-Flutter  
-React  
-TypeScript  
-Tailwind
-
-
-</td>
-
-
-<td align="center">
-
-### ⚙️ Backend
-
-NestJS  
-Node.js  
-Express  
-REST APIs
-
-
-</td>
-
-
-<td align="center">
-
-### ☁️ Infrastructure
-
-AWS  
-Docker  
-Nginx  
-Linux
-
-
-</td>
-
-
-<td align="center">
-
-### 🗄 Data
-
-PostgreSQL  
-MongoDB  
-Redis  
-
-</td>
-
-
-</tr>
-
-</table>
-
-
----
-
-# 🚀 Building Wotpan
+<br/>
 
 
 <table width="100%">
@@ -131,101 +272,48 @@ Redis
 <td width="50%">
 
 
-### Client Layer
-
-```
-Flutter App
-
-↓
+## 🏎️ SYSTEM PROFILE
 
 
-Realtime UI
+```yaml
+identity:
+  name: Amaan Khan
+  role: Software Engineer
+  domain:
+    - Full Stack
+    - Cloud Engineering
+    - Mobile Systems
 
-↓
+current_machine:
+  project: Wotpan
+  status: RUNNING
 
-
-Socket Events
-
-↓
-
-
-Media Engine
-
+mission:
+  build: scalable digital systems
 ```
 
 
 </td>
+
 
 
 <td width="50%">
 
 
-### Server Layer
+## ⚡ ENGINE STATUS
+
 
 ```
-NestJS API
+████████████████ 100%
 
-↓
+Frontend      ONLINE
+Backend       ONLINE
+Cloud         ONLINE
+Realtime      ONLINE
 
-PostgreSQL
-
-↓
-
-Redis
-
-↓
-
-Cloud Infrastructure
-
+SYSTEM READY 🚀
 ```
 
-
-</td>
-
-
-</tr>
-
-</table>
-
-
----
-
-# 🏗 Production Experience
-
-
-<table width="100%">
-
-<tr>
-
-<td>
-
-🚀 <b>Application Engineering</b>
-
-<br/>
-
-Building scalable mobile experiences with Flutter, optimized UI systems and realtime features.
-
-</td>
-
-
-<td>
-
-⚡ <b>Backend Architecture</b>
-
-<br/>
-
-Designing modular APIs, authentication systems and database-driven services.
-
-</td>
-
-
-<td>
-
-☁️ <b>Cloud Engineering</b>
-
-<br/>
-
-Deploying production workloads using Docker, Nginx, AWS and automation.
 
 </td>
 
@@ -235,116 +323,3 @@ Deploying production workloads using Docker, Nginx, AWS and automation.
 
 
 ---
-
-# 🔥 System Thinking
-
-
-<div align="center">
-
-```
-User
-
- ↓
-
-Experience Layer
-
- ↓
-
-Business Logic
-
- ↓
-
-Distributed Services
-
- ↓
-
-Cloud Infrastructure
-
- ↓
-
-Observability
-```
-
-</div>
-
-
----
-
-# 📊 GitHub
-
-
-<div align="center">
-
-<img height="160"
-src="https://github-readme-stats.vercel.app/api?username=amaan-khan&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="160"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-khan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-
-</div>
-
-
----
-
-# 🛰 Current Mission
-
-
-<table width="100%">
-
-<tr>
-
-<td align="center">
-
-🧠  
-System Design
-
-</td>
-
-
-<td align="center">
-
-☁️  
-Cloud Native
-
-</td>
-
-
-<td align="center">
-
-⚡  
-Distributed Systems
-
-</td>
-
-
-<td align="center">
-
-🚀  
-Developer Tools
-
-</td>
-
-
-</tr>
-
-</table>
-
-
----
-
-<div align="center">
-
-
-### "I don't just write code. I engineer systems."
-
-
-<img src="https://komarev.com/ghpvc/?username=amaan-khan&style=flat-square&color=00F5FF"/>
-
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:001B44,100:00F5FF&height=100&section=footer"/>
-
-
-</div>
