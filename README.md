@@ -1,80 +1,235 @@
-# 🚀 Amaan Khan | Software Engineer
+<!-- ########## HEADER / ASCII BANNER ########## -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=3000&pause=1000&color=00FFAB&center=true&vCenter=true&width=600&height=100&lines=AMAAN+KHAN;Full-Stack+Architect;DevOps+Automator;DSA+Gladiator;Cloud+Native+Dev" alt="Typing SVG" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=435&lines=Full-Stack+Developer;DevOps+Enthusiast;Problem+Solver;Tech+Innovator)](https://git.io/typing-svg)
-
-[![GitHub followers](https://img.shields.io/github/followers/amaan-khan?style=social)](https://github.com/amaan-khan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/amaan-khan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-orange?style=flat&logo=leetcode)](https://leetcode.com/Amaan_Khan1)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:amaankhan172595@gmail.com)
-
----
-
-## 💫 About Me
-
-> **"Building scalable solutions, one commit at a time."**
-
-Hey there! I'm **Amaan Khan**, a passionate Software Engineer who thrives at the intersection of **full-stack development**, **cloud-native deployment**, and **modern DevOps practices**. I believe in writing clean, efficient code that solves real-world problems and scales seamlessly.
-
-- 🎯 **Specializing in:** Flutter, React, NestJS, Java
-- 🌐 **Full-Stack Enthusiast:** From pixel-perfect UIs to robust backend systems
-- ☁️ **Cloud Native:** Docker, Kubernetes, AWS - automating everything!
-- 🧠 **DSA Geek:** Strong foundation in Data Structures & Algorithms
-- 🏆 **NASA Space Apps Challenge Participant**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amaan-khan&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/amaan-khan?style=for-the-badge&logo=github&color=181717&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/amaan-khan?style=for-the-badge&logo=github&color=yellow&label=STARS" alt="Stars" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🚀 Frameworks & Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🗄️ Databases & DevOps
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<!-- ########## ABOUT ME + FUN FACT ########## -->
+<table align="center">
+  <tr>
+    <td>
+      <h2>👋 Hi, I'm Amaan!</h2>
+      <p>
+        🚀 <b>Software Engineer</b> specializing in <b>Full-Stack</b> & <b>Cloud-Native</b> deployments.<br>
+        🎯 I turn complex problems into elegant, scalable solutions.<br>
+        ☁️ <b>DevOps Warrior</b> – Docker, K8s, AWS – I automate everything.<br>
+        🧠 <b>DSA Obsessed</b> – 1000+ problems solved & counting.<br>
+        🏆 <b>NASA Space Apps</b> Challenger & <b>AWS Cloud Practitioner</b> Certified.
+      </p>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 💼 Professional Experience
+<!-- ########## GITHUB METRICS / STATS ########## -->
+<h2 align="center">📊 GitHub Analytics</h2>
 
-### 💻 **Software Engineer** @ Wotpan
-*November 2025 - Present | Kashipur, Uttarakhand*
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amaan-khan&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amaan-khan&theme=radical&hide_border=true&bg_color=0d1117" />
+</p>
 
-> *"Where innovation meets execution"*
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaan-khan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=8" />
+  <img width="55%" src="https://github-profile-trophy.vercel.app/?username=amaan-khan&theme=radical&no-frame=true&row=2&column=4" />
+</p>
 
-- 🚀 Built cross-platform mobile apps with **Flutter** - responsive UIs, reusable components, seamless Android/iOS experiences
-- ⚡ Architected **NestJS** backend services - RESTful APIs, JWT auth, modular design for production-grade applications
-- 🐳 **Containerization Pro**: Docker + Nginx reverse proxy + PM2 + SSL certificates = bulletproof deployments
-- 🔄 **CI/CD Champion**: Automated build/deployment workflows - zero manual intervention, faster releases
-- 🤝 **Cross-functional Collaborator**: Bridged frontend, backend, and deployment teams for end-to-end solutions
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaan-khan&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
 
 ---
 
-## 🏗️ Featured Projects
+<!-- ########## TECH STACK (INSANE VERSION) ########## -->
+<h2 align="center">⚡ The Arsenal</h2>
 
-### 🤖 **AI Conversational Assistant**
-> *Full-Stack AI Platform with Enterprise-Grade Architecture*
+<table align="center" border="0">
+  <tr>
+    <th>💻 Languages</th>
+    <th>🚀 Frameworks</th>
+    <th>☁️ DevOps & DB</th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>🛠️ More Tools I Master</b></summary>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+    <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+  </p>
+</details>
+
+---
+
+<!-- ########## PROFESSIONAL EXPERIENCE (TIMELINE) ########## -->
+<h2 align="center">💼 Experience</h2>
+
+<h3>💻 Software Engineer @ <b>Wotpan</b></h3>
+<p><i>Nov 2025 – Present | Kashipur, UK</i></p>
+
+<blockquote>
+  <b>🚀 Cross-Platform (Flutter):</b> Architected reusable UI components for seamless Android/iOS experiences.<br/>
+  <b>⚙️ Scalable Backend (NestJS):</b> Built modular REST APIs with JWT auth and bulletproof validation.<br/>
+  <b>🐳 DevOps & Deployment:</b> Containerized apps (Docker), configured Nginx reverse proxy, managed PM2, and enforced SSL security.<br/>
+  <b>🔄 CI/CD Pipeline:</b> Automated builds & deployments – zero manual friction, faster releases.<br/>
+  <b>🤝 Cross-Functional:</b> Unified frontend, backend, and deployment teams to ship end-to-end solutions.
+</blockquote>
+
+---
+
+<!-- ########## FEATURED PROJECTS (SHOWCASE) ########## -->
+<h2 align="center">🏗️ Featured Projects</h2>
+
+<table border="0" align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 AI Conversational Assistant</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <ul>
+        <li>🔐 <b>Security First:</b> JWT + HTTP-only cookies + Crypt encryption.</li>
+        <li>☁️ <b>Cloudinary Integration:</b> Seamless media management.</li>
+        <li>⚡ <b>Performance:</b> Optimized REST APIs with Axios + modular architecture.</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h3 align="center">🚀 LaunchPad</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <ul>
+        <li>📱 <b>Mobile-First:</b> Pixel-perfect, responsive across all devices.</li>
+        <li>⚡ <b>Optimized:</b> Lazy loading + utility-first CSS for speed.</li>
+        <li>🌍 <b>Global Delivery:</b> Deployed on Vercel with auto-scaling.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ########## LEETCODE / CODING PROFILES ########## -->
+<h2 align="center">🏅 Competitive Coding</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/Amaan_Khan1">
+    <img src="https://leetcard.jacoblin.cool/Amaan_Khan1?theme=dark&font=baloo&ext=heatmap" width="60%" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-1000%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/CodeChef-Active-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  <img src="https://img.shields.io/badge/HackerRank-5%20Stars-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
+
+---
+
+<!-- ########## WAKATIME / CODING ACTIVITY ########## -->
+<h2 align="center">📈 Coding Activity</h2>
+
+<p align="center">
+  <i>🚧 <b>Pro Tip:</b> Enable the WakaTime GitHub Action to show your real-time coding stats here!</i>
+</p>
+
+<!-- Replace the URL below with your actual WakaTime embed if enabled -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amaan_khan&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<!-- ########## RANDOM DEV QUOTE ########## -->
+<h2 align="center">🧠 Dev Quote of the Day</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<!-- ########## SNAKE CONTRIBUTION GRID (ANIMATED) ########## -->
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/amaan-khan/amaan-khan/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <br/>
+  <i>🔥 <b>Pro Tip:</b> Set up the GitHub Action <code>Platane/snk</code> to auto-generate this animated snake based on your contributions!</i>
+</p>
+
+---
+
+<!-- ########## CONNECT WITH ME ########## -->
+<h2 align="center">📫 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/amaan-khan">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:amaankhan172595@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Amaan_Khan1">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ########## FOOTER ########## -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+<p align="center">
+  <b>⭐️ From <a href="https://github.com/amaan-khan">Amaan Khan</a> with ❤️ & ☕</b><br/>
+  <i>"Code is poetry in motion."</i>
+</p>
